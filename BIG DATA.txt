@@ -1,0 +1,46 @@
+Data warehouse -- a storing place where we collect the data from multiple sources.
+OLTP --- online transaction processing (Transactional data)
+OLAP --- online analytical processing (Analytical data)
+
+Big data -- data which is beyond storage and processing capacity of conventional databases like oracle, SQL server,.
+
+Sourcse of big data --
+-----------------------
+social  networking sites : facebook, whatsapp, twitter,linked in rct..
+mobiile devices : calls data, text data, apps,etc..
+internet transactions : purchases , online banking activities etc..
+networked devices/sensors : temparaature, wheather etc..
+
+Characteristics of big data  (5 'v')
+-----------------------------
+volume (size of data)
+velocity (processing  speedo of data is fast)
+variety (diff types of data/ unstructured data like,  text,images,videoas are included in BD)
+value (worth  of data being extracted)
+veracity (how accurate is all this data ?)
+
+
+Three types of data 
+---------------------
+
+1. Structured data : data which can be easily stored/read in a tabular format using any traditional RDBMS like 
+                   oracle,SQL server Ex: Employee data 
+
+2. Semi structured data : Data  which has some structure but cannot be stored in ttabular format in RDBMS.
+                        EX: Xml data, emails messagges etc..
+
+3. Unstructured data:  Data which is not having any structure and also we cannot store in tabular format.
+                     Ex: video  files, audio files, text files etc..
+
+
+Hadoop:
+------------------------
+Hadoop is a free (open source), java based framework used for storing and processing huge data.sponsered by Apche foundation
+Hadoop uese commodity (cheaper) hardware and cluster  concepts.
+Hadoop is  recommended to handel big data sets (big data) and not smll data sets.
+conventional databases like oracle, SQL server are not compatible to handle Big data thats why we use Hadoop to
+process and handel Big data.
+
+
+
+
